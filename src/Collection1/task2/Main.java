@@ -2,10 +2,10 @@ package Collection1.task2;
 import java.util.*;
 
 public class Main {
-    public static void main(String[] args){
-        HeavyBox box1=new HeavyBox(2,3,4);
-        HeavyBox box2=new HeavyBox(4,3,10);
-        HeavyBox box3=new HeavyBox(4,2,9);
+    public static void main(String[] args) {
+        HeavyBox box1 = new HeavyBox(2, 3, 4);
+        HeavyBox box2 = new HeavyBox(4, 3, 10);
+        HeavyBox box3 = new HeavyBox(4, 2, 9);
         List<HeavyBox> boxes = new ArrayList<>();
         boxes.add(box1);
         boxes.add(box2);
